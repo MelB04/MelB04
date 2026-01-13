@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Je m'appelle Mélanie Bdy et je suis étudiante à l'EPSI. <br><br>J’adore le développement mobile, mais je suis aussi féru de web et de bases de données ⚡. Pendant mon temps libre, je réfléchis et crée des applications innovantes, toujours à la recherche de nouvelles idées et de défis à relever ! 🚀</p>
+<p align="left">Je m'appelle Mélanie et je suis étudiante. <br><br>J’adore le développement mobile, mais je suis aussi féru de web et de bases de données ⚡. Pendant mon temps libre, je réfléchis et crée des applications innovantes, toujours à la recherche de nouvelles idées et de défis à relever ! 🚀</p>
 
 ###
 
